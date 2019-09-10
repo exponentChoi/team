@@ -1,3 +1,4 @@
 <resources>
+    <string name="str_prompt_of_spinnerLocationProvider">weather</string>
     <string name="app_name">weather</string>
 </resources>
